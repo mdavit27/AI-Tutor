@@ -1,0 +1,12 @@
+soal,pilihan_a,pilihan_b,pilihan_c,pilihan_d,jawaban,kategori
+"Algoritma adalah?","Bahasa pemrograman","Urutan langkah untuk menyelesaikan masalah","Database","Sistem operasi","B","Algoritma"
+"Struktur data LIFO adalah?","Queue","Array","Stack","Linked List","C","Struktur Data"
+"Struktur data FIFO adalah?","Stack","Queue","Array","Tree","B","Struktur Data"
+"HTML digunakan untuk?","Membuat struktur halaman web","Mengelola database","Membuat sistem operasi","Mengolah gambar","A","Web"
+"CSS digunakan untuk?","Membuat database","Mengatur tampilan halaman web","Membuat server","Mengolah data","B","Web"
+"JavaScript digunakan untuk?","Membuat halaman web interaktif","Membuat database saja","Membuat sistem operasi","Menghapus HTML","A","Web"
+"Primary key digunakan untuk?","Menghapus tabel","Mengidentifikasi record secara unik","Membuat warna halaman","Menghubungkan internet","B","Database"
+"Konsep OOP yang memungkinkan pewarisan adalah?","Encapsulation","Polymorphism","Inheritance","Abstraction","C","OOP"
+"Python termasuk?","Bahasa pemrograman","Database","Sistem operasi","Browser","A","Python"
+"NLP merupakan singkatan dari?","Network Language Program","Natural Language Processing","New Learning Program","Natural Logic Processing","B","AI"
+"Machine Learning merupakan bagian dari?","AI","HTML","CSS","Database","A","AI"

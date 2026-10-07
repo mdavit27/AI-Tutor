@@ -1,0 +1,27 @@
+pertanyaan,jawaban,kategori
+apa itu algoritma,"Algoritma adalah urutan langkah yang sistematis dan logis untuk menyelesaikan suatu masalah.",Algoritma
+apa yang dimaksud algoritma,"Algoritma adalah urutan langkah yang sistematis dan logis untuk menyelesaikan suatu masalah.",Algoritma
+fungsi algoritma,"Algoritma berfungsi sebagai panduan langkah demi langkah untuk menyelesaikan masalah secara terstruktur.",Algoritma
+apa itu pemrograman,"Pemrograman adalah proses membuat instruksi menggunakan bahasa pemrograman agar komputer dapat menjalankan tugas tertentu.",Pemrograman
+apa itu variabel,"Variabel adalah tempat untuk menyimpan data yang nilainya dapat digunakan dan diubah selama program berjalan.",Pemrograman
+apa itu array,"Array adalah struktur data yang digunakan untuk menyimpan beberapa data dengan tipe yang sama dalam satu variabel.",Struktur Data
+apa itu linked list,"Linked List adalah struktur data yang terdiri dari node-node yang saling terhubung menggunakan referensi atau pointer.",Struktur Data
+apa itu stack,"Stack adalah struktur data yang menggunakan konsep LIFO, yaitu data yang terakhir masuk akan menjadi data yang pertama keluar.",Struktur Data
+apa itu queue,"Queue adalah struktur data yang menggunakan konsep FIFO, yaitu data yang pertama masuk akan menjadi data yang pertama keluar.",Struktur Data
+apa itu database,"Database adalah kumpulan data yang disimpan dan dikelola secara terstruktur sehingga dapat diakses dan digunakan dengan mudah.",Database
+apa itu primary key,"Primary key adalah atribut yang digunakan untuk mengidentifikasi setiap record dalam sebuah tabel secara unik.",Database
+apa itu foreign key,"Foreign key adalah atribut yang digunakan untuk menghubungkan sebuah tabel dengan tabel lainnya.",Database
+apa itu oop,"OOP atau Object Oriented Programming adalah paradigma pemrograman yang menggunakan objek dan class sebagai dasar pengembangan program.",OOP
+apa itu class,"Class adalah blueprint atau cetak biru yang digunakan untuk membuat objek dalam pemrograman berorientasi objek.",OOP
+apa itu object,"Object adalah instance atau hasil dari sebuah class yang memiliki atribut dan method.",OOP
+apa itu inheritance,"Inheritance adalah konsep OOP yang memungkinkan sebuah class mewarisi atribut dan method dari class lainnya.",OOP
+apa itu polymorphism,"Polymorphism adalah kemampuan suatu objek untuk memiliki banyak bentuk atau memberikan implementasi yang berbeda terhadap method yang sama.",OOP
+apa itu encapsulation,"Encapsulation adalah konsep membungkus data dan method dalam sebuah class serta membatasi akses langsung terhadap data tersebut.",OOP
+apa itu html,"HTML atau HyperText Markup Language adalah bahasa markup yang digunakan untuk membuat struktur halaman web.",Web
+apa itu css,"CSS atau Cascading Style Sheets digunakan untuk mengatur tampilan dan desain halaman web.",Web
+apa itu javascript,"JavaScript adalah bahasa pemrograman yang digunakan untuk membuat halaman web menjadi interaktif.",Web
+apa itu flask,"Flask adalah framework web Python yang ringan dan digunakan untuk membangun aplikasi web.",Python
+apa itu python,"Python adalah bahasa pemrograman tingkat tinggi yang mudah dipelajari dan banyak digunakan dalam pengembangan aplikasi, data science, dan AI.",Python
+apa itu artificial intelligence,"Artificial Intelligence atau kecerdasan buatan adalah teknologi yang memungkinkan komputer melakukan tugas yang membutuhkan kemampuan seperti memahami data dan mengambil keputusan.",AI
+apa itu machine learning,"Machine Learning adalah cabang AI yang memungkinkan komputer mempelajari pola dari data untuk membuat prediksi atau keputusan.",AI
+apa itu nlp,"Natural Language Processing atau NLP adalah bidang AI yang memungkinkan komputer memproses dan memahami bahasa manusia.",AI
